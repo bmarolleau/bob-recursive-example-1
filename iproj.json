@@ -1,12 +1,11 @@
 {
-  "version": "0.0.1",
-  "description": "SAMPLE PROJECT",
+  "description": "SAMPLE PROJECT v6",
   "includePath": [
     "QPROTOSRC"
   ],
   "postUsrlibl": [],
   "setIBMiEnvCmd": [],
-  "repository": "git@github.com:bmarolleau/bob-recursive-example.git",
+  "repository": "git@github.com:bmarolleau/bob-recursive-example-1.git",
   "objlib": "&verlibbobby",
   "buildCommand": "elias compile {branch}",
   "compileCommand": "elias compile {branch} -f {filename}",
