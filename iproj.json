@@ -6,7 +6,7 @@
   ],
   "postUsrlibl": [],
   "setIBMiEnvCmd": [],
-  "repository": "git@github.com:sebjulliand/bob-recursive-example.git",
+  "repository": "git@github.com:bmarolleau/bob-recursive-example-1.git",
   "objlib": "&verlibbobby",
   "buildCommand": "elias compile {branch}",
   "compileCommand": "elias compile {branch} -f {filename}",
