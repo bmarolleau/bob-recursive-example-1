@@ -13,7 +13,7 @@
   "extensions": {
     "arcad": {
       "code": "BOBBY",
-      "libraryPrefix": "BBY",
+      "libraryPrefix": "BBY", 
       "validated": true,
       "iasp": ""
     }
